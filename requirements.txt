@@ -24,7 +24,6 @@ deepdiff==6.7.1
 Deprecated==1.2.14
 distro==1.9.0
 emoji==2.11.0
-fastapi==0.110.1
 filelock==3.13.3
 filetype==1.2.0
 flatbuffers==24.3.25
@@ -83,7 +82,6 @@ opentelemetry-exporter-otlp-proto-common==1.24.0
 opentelemetry-exporter-otlp-proto-grpc==1.24.0
 opentelemetry-instrumentation==0.45b0
 opentelemetry-instrumentation-asgi==0.45b0
-opentelemetry-instrumentation-fastapi==0.45b0
 opentelemetry-proto==1.24.0
 opentelemetry-sdk==1.24.0
 opentelemetry-semantic-conventions==0.45b0
