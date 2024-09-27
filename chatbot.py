@@ -3,7 +3,7 @@ import sys
 # load_dotenv()
 from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
-from langchain.vectorstores import Chroma
+from langchain_community.vectorstores import Chroma
 from langchain.embeddings import OpenAIEmbeddings
 import streamlit as st
 from langchain_community.document_loaders.csv_loader import CSVLoader
